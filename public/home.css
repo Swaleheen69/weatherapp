@@ -1,0 +1,28 @@
+#div2{
+    text-align: center;
+    padding: 50px;
+}
+#id{
+    color: black;
+}
+#tempspan{
+    font-weight: 600;
+}
+#typespan{
+    font-weight: 600;
+}
+#image{
+    margin-right: 8%;
+    margin-bottom: 8%;
+    
+}
+body{
+    box-sizing: border-box;
+}
+#btn{
+    border: none;
+    color: black;
+    background-color: wheat;
+    font-weight: 500;
+    padding: 3px;
+}
